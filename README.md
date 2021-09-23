@@ -1,3 +1,3 @@
 # hello-world
 Progetto hello-world
-Prima riga nel readme
+Prima riga nel read.me
